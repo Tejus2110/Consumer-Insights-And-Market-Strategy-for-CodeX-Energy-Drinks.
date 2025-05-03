@@ -10,7 +10,7 @@ Welcome to the **CodeX India Market Insights** project. CodeX, a leading German 
 - **Target Market**: India (10 cities)
 - **Respondents**: 10,000 survey participants
 - **Domain**: Food & Beverage / Consumer Behavior / Marketing Analytics
-- **Role**: Data Analyst (Peter Pandey)
+- **Role**: Data Analyst
 - **Goal**: Use survey data to generate insights that improve brand awareness, product positioning, and market share in India.
 
 ---
