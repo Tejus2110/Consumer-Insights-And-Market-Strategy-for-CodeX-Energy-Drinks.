@@ -143,13 +143,7 @@ Based on the analysis of responses from over **10,000 consumers**, here are the 
   - City-wise performance
   - Brand perception heatmaps
   - Packaging preferences by gender
-
----
-
-## 💬 Get in Touch
-
-If you’d like to collaborate, extend the analysis, or discuss the insights, feel free to reach out via GitHub Issues or connect with **Peter Pandey**, Marketing Data Analyst at CodeX.
-
+  - 
 ---
 
 ## 📄 License
