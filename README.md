@@ -143,12 +143,7 @@ Based on the analysis of responses from over **10,000 consumers**, here are the 
   - City-wise performance
   - Brand perception heatmaps
   - Packaging preferences by gender
-  - 
 ---
 
-## 📄 License
 
-This project is intended for educational and marketing analytics portfolio use. Contact for commercial use rights.
-
----
 
